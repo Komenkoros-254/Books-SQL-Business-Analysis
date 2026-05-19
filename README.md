@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes an  books dataset using **PostgreSQL** and **pgAdmin**. The goal is to use SQL to explore business problems related to book pricing, ratings, category performance, bestseller status, Kindle Unlimited availability, publisher performance, and promotional opportunities.
+This project analyzes an  books dataset using **PostgreSQL** and **pgAdmin**. The goal is to use SQL to explore business problems related to book pricing, ratings, category performance, bestseller status, Kindle Unlimited availability, publisher performance, and promotional opportunities.I would like to appreciate and recognize Asaniczka who made this dataset available in kaggle for analysis
 
 The dataset contains book-level information such as title, author, seller/publisher, rating, price, category, publication date, bestseller status, Editor’s Pick status, Goodreads Choice status, and Kindle Unlimited availability.
 
